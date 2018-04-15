@@ -12,6 +12,7 @@ int main() {
     //BinaryNode<char> t1('c');
     //test.preOrder(printTree);
     unsigned int a = test.getDepth();
-    cout << a << endl;
+    BinaryList.clear();
+
     return 0;
 }
